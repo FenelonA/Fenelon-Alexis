@@ -1,1 +1,1 @@
-# Le projet est intialisé
+# Le projet est initialisé !
